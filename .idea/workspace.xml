@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87df9882-26b5-40d9-a5ec-1f013a1146dd" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/public/icon-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icon-512x512.png" afterDir="false" />
+    <list default="true" id="87df9882-26b5-40d9-a5ec-1f013a1146dd" name="Changes" comment="feat: add ícones pwa">
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737059294096</updated>
-      <workItem from="1737059295186" duration="1636000" />
+      <workItem from="1737059295186" duration="1845000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -73,7 +72,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737060683096</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: add ícones pwa">
+      <option name="closed" value="true" />
+      <created>1737061071840</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737061071840</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="feat: add ícones pwa" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add ícones pwa" />
   </component>
 </project>
